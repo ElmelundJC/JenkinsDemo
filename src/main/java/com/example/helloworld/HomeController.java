@@ -9,7 +9,7 @@ import java.sql.Connection;
 @Controller
 public class HomeController {
 
-    public String name= "anna";
+    public String name= "AnnA";
 
     @GetMapping("/")
     public String home(){
